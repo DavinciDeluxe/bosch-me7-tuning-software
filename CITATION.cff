@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch ME7 ECU Calibration Software — Port-injected petrol turbo & NA ECU (ME7.5 1.8T, ME7.1, ME7.3, ME7.4, ME7.9) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-me7-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-me7-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
