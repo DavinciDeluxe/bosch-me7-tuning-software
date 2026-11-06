@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-me7-tuning-software",
     "https://www.aesoftech.eu/bosch-me7-tuning-software"
   ],
-  "matched_variants_count": 224,
+  "matched_variants_count": 225,
   "brands": {
     "BMW": [
       "DME7.1",
@@ -164,6 +164,7 @@
       "ME7.4.7",
       "ME7.4.X",
       "ME7.5",
+      "ME7.9.5",
       "ME7.9.51",
       "ME7.9.52"
     ],
