@@ -1,10 +1,10 @@
-# Bosch ME7 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch ME7 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20ME7-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-me7-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-me7-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-me7-tuning-software)
 
-**Bosch ME7** is classic turbo & naturally aspirated petrol ECU family (VAG 1.8T/2.7T, Porsche, Fiat, Alfa Romeo, Volvo). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch ME7 readouts**.
+**Bosch ME7** is classic turbo & naturally aspirated petrol ECU family (VAG 1.8T/2.7T, Porsche, Fiat, Alfa Romeo, Volvo). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch ME7 readouts**.
 
 ## 📊 Live Bosch ME7 Variants Covered Across Brands
 
