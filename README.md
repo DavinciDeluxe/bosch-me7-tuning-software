@@ -26,7 +26,6 @@
 | **JEEP** | 8 | `ME7`, `ME7.3`, `ME7.3.1`, `ME7.3.2`, `ME7.4.5`, `ME7.6`, `ME7.6.2`, `ME7.9.10` |
 | **ABARTH** | 8 | `ME7`, `ME7.3`, `ME7.3.1`, `ME7.3.2`, `ME7.4.5`, `ME7.6`, `ME7.6.2`, `ME7.9.10` |
 | **CHRYSLER** | 8 | `ME7`, `ME7.3`, `ME7.3.1`, `ME7.3.2`, `ME7.4.5`, `ME7.6`, `ME7.6.2`, `ME7.9.10` |
-| **RAM** | 8 | `ME7`, `ME7.3`, `ME7.3.1`, `ME7.3.2`, `ME7.4.5`, `ME7.6`, `ME7.6.2`, `ME7.9.10` |
 | **DS** | 8 | `ME7`, `ME7.4.4`, `ME7.4.5`, `ME7.4.6`, `ME7.4.7`, `ME7.4.X`, `ME7.5`, `ME7.9.51` |
 | **OPEL** | 7 | `ME7.1-ME7.1.1`, `ME7.5`, `ME7.6.2`, `ME7.6.3`, `ME7.6.4`, `ME7.6.X`, `ME7.9.9` |
 | **CHEVROLET** | 7 | `ME7.1-ME7.1.1`, `ME7.5`, `ME7.6.2`, `ME7.6.3`, `ME7.6.4`, `ME7.6.X`, `ME7.9.9` |
@@ -40,6 +39,7 @@
 | **MASERATI** | 2 | `ME7.1.3`, `ME7.3.2` |
 | **MERCEDES-BENZ** | 2 | `ME7.1.1`, `ME7.5` |
 | **MAYBACH** | 2 | `ME7.1.1`, `ME7.5` |
+| **TOYOTA** | 2 | `ME7.9.5`, `ME7.9.52` |
 
 👉 **[Open the full Bosch ME7 guide & test your file free at https://www.davincideluxe.fr/bosch-me7-tuning-software →](https://www.davincideluxe.fr/bosch-me7-tuning-software)**
 
