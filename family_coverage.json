@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-me7-tuning-software",
     "https://www.aesoftech.eu/bosch-me7-tuning-software"
   ],
-  "matched_variants_count": 242,
+  "matched_variants_count": 234,
   "brands": {
     "BMW": [
       "BOSCHME7.2",
@@ -83,16 +83,6 @@
       "ME7.9.10"
     ],
     "CHRYSLER": [
-      "ME7",
-      "ME7.3",
-      "ME7.3.1",
-      "ME7.3.2",
-      "ME7.4.5",
-      "ME7.6",
-      "ME7.6.2",
-      "ME7.9.10"
-    ],
-    "RAM": [
       "ME7",
       "ME7.3",
       "ME7.3.1",
