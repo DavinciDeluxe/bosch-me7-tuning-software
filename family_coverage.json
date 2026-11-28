@@ -100,10 +100,6 @@
     "BRILLIANCE": [
       "ME7.8.8"
     ],
-    "CHERY": [
-      "ME7.8",
-      "ME7.9.7"
-    ],
     "CHEVROLET": [
       "ME7.1-ME7.1.1",
       "ME7.5",
@@ -129,6 +125,10 @@
     ],
     "GREAT WALL": [
       "ME7.8.8"
+    ],
+    "CHERY": [
+      "ME7.8",
+      "ME7.9.7"
     ],
     "CHRYSLER": [
       "ME7",
